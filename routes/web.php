@@ -114,3 +114,7 @@ Route::get('editer_tontine',function ( ) {
 Route::get('liste_tontine',function ( ) {
     return view('Tontine/liste_tontine');
 });
+Route::get('liste_tontine1',function ( ) {
+    return view('Tontine/liste_tontine');
+});
+

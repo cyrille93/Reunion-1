@@ -19,7 +19,7 @@
                 <tbody>
                   <tr class="gradeX">
                     <td>Trident</td>
-                    <td>Internet Explorer 4.0</td>
+                  <td>Internet Explorer 4.0</td>
                     <td class="hidden-phone">Win 95+</td>
                     <td class="center hidden-phone">4</td>
                     <td class="center hidden-phone">X</td>
